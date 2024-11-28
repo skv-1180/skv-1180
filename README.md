@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham Verma</h1>
 <h3 align="center">A Passionate Developer | Competitive Programmer | Tech Enthusiast</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skv-1180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&title_color=00FF00&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 ### 💡 About Me:
 - 🌱 I’m a student at **IIT Roorkee.**
 - 🏆 Achievements:
