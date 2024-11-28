@@ -11,7 +11,7 @@
 ###
 
 ### 💡 About Me:
-- 🌱 I’m a student.**
+- 🌱 I’m a **student**.
 - 🏆 Achievements:
   - **5★ Coder** on CodeChef
   - **Candidate Master** on Codeforces
