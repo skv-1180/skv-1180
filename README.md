@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Verma</h1>
 <h3 align="center">A Passionate Developer | Competitive Programmer | Tech Enthusiast</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skv-1180&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=00FF00&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skv-1180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&title_color=00FF00&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 ### 💡 About Me:
-- 🌱 I’m a **student**.
+- 🌱 I’m a student at **IIT Roorkee.**
 - 🏆 Achievements:
-  - **5★ Coder** on CodeChef
   - **Candidate Master** on Codeforces
+  - **5★ Coder** on CodeChef
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhamkrverma/)
 
 ###
@@ -41,7 +32,10 @@
 </div>
 
 #### Specializations:
-- Machine Learning | Game Development (Unity) | Competitive Programming | Full Stack Web Development
+- Machine Learning
+- Game Development (Unity) 
+- Competitive Programming 
+- Full Stack Web Development
 
 ###
 
