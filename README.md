@@ -20,16 +20,12 @@
 ###
 
 ### 🛠️ Skills & Tools:
-#### Programming Languages:
+#### Programming Languages, Frameworks & Libraries:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-</div>
-
-#### Frameworks & Libraries:
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
@@ -45,10 +41,7 @@
 </div>
 
 #### Specializations:
-- Machine Learning
-- Game Development (Unity)
-- Competitive Programming
-- Web Development (Full Stack)
+- Machine Learning | Game Development (Unity) | Competitive Programming | Full Stack Web Development
 
 ###
 
@@ -61,6 +54,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
-
-###
-
