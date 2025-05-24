@@ -14,7 +14,7 @@
 - 🌱 I’m a student at **IIT Roorkee.**
 - 🏆 Achievements:
   - **Candidate Master** on Codeforces
-  - **5★ Coder** on CodeChef
+  - **6★ Coder** on CodeChef
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhamkrverma/)
 
 ###
